@@ -1,3 +1,3 @@
 # hello-word
-first directory
-hi I am Dnyaneshwar.
+hi I am Dnyaneshwar,
+ this is my first directory.
